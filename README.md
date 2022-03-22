@@ -2,7 +2,6 @@
 - 👀 I’m interested in Discord Bot
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on my girlfriend
-- 📫 How to reach me ...
 
 <!---
 Yingxyz/Yingxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
